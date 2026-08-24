@@ -1,7 +1,7 @@
 .{
     .name = .raycaster,
     .version = "0.0.0",
-    .fingerprint = 0x2937c9e286d4483b,
+    .fingerprint = 0xfb2ca9256f0cafc8,
     .minimum_zig_version = "0.16.0",
     .dependencies = .{
         .raylib_zig = .{
